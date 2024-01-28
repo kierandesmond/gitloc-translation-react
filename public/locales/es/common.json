@@ -2,5 +2,6 @@
   "description": {
     "text": "Editar <0>{{fileName}}</0> y Guardar para reinitio. Ver <1>docs</1> por mas informacion.",
     "reactLink": "docs"
-  }
+  },
+  "higitloc": "Hola GitLoc, soy {{firstName}}"
 }
