@@ -6,5 +6,6 @@
   },
   "hello": "Hello world",
   "helloName": "Hello {{name}}",
-  "helloNames": "Hello {{firstName}} {{lastName}}"
+  "helloNames": "Hello {{firstName}} {{lastName}}",
+  "higitloc": "Hello GitLoc, this is {{firstName}}"
 }
