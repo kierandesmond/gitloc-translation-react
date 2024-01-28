@@ -1,0 +1,9 @@
+config:
+  defaultLocale: en
+  locales:
+    - en
+    - de
+    - es
+  directories:
+    - public/locales
+  format: 2
