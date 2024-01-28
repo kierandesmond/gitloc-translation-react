@@ -6,4 +6,3 @@ config:
     - es
   directories:
     - public/locales
-  format: 2
