@@ -3,5 +3,8 @@
     "text": "Editar <0>{{fileName}}</0> y Guardar para reinitio. Ver <1>docs</1> por mas informacion.",
     "reactLink": "docs"
   },
-  "higitloc": "Hola GitLoc, soy {{firstName}}"
+  "higitloc": "Hola GitLoc, soy {{firstName}}",
+  "hello": "Hola mundo",
+  "helloName": "Hola {{name}}",
+  "helloNames": "Hola {{firstName}} {{lastName}}"
 }
