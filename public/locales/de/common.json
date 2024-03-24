@@ -3,5 +3,8 @@
     "text": "<0>{{fileName}}</0> bearbeiten und zum erneuten Laden speichern. Weitere Informationen finden Sie in der <1>Dokumentation</1>.",
     "reactLink": "Dokumentation"
   },
-  "higitloc": "Hallo GitLoc, das ist {{firstName}}"
+  "higitloc": "Hallo GitLoc, das ist {{firstName}}",
+  "hello": "Hallo Welt",
+  "helloName": "Hallo {{name}}",
+  "helloNames": "Hallo {{firstName}} {{lastName}}"
 }
